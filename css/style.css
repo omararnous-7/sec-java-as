@@ -1,0 +1,31 @@
+div {
+    text-align: center;
+    background-color: wheat;
+   
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+}
+
+p {
+    font-size: 35px;
+}
+
+.btn {
+    width: 250px;
+    height: 80px;
+    background-color:gray;
+    color: white;
+}
+
+
+
+.btn:hover {
+    background-color: white;
+    color: black;
+}
+#quote{
+    color: red;
+}
